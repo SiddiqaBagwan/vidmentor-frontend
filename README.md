@@ -1,2 +1,2 @@
 front-end of **vidmentor** 
-Deployed on Vercel
+Deployed on **VERCEL**
